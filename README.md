@@ -6,6 +6,6 @@ What is JavaScript and TypeScript, What are the differences between JavaScript a
 
 Getting data from Trendyol and including jsonwebtoken, joi, error-handler.
 
-"Week3
+# Week3
 
 DynamoDB crud operations.
