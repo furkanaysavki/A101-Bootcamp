@@ -1,6 +1,6 @@
 # Week 1
 
-What is JavaScript and TypeScript, What are the differences between JavaScript and TypeScript.
+What is JavaScript and TypeScript, What are the differences between JavaScript and TypeScript. How to create server with Nodejs
 
 # Week 2
 
